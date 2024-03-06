@@ -1,6 +1,7 @@
 @extends('layout.app')
 
 @section('title','dashboard' )
+@section('sub', 'Home')
 
 @section('content')
 
